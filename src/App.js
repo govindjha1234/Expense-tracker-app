@@ -7,12 +7,7 @@ import NewExpense from "./Components/NewExpenses/NewExpense";
 
 
 let Dummy_Expense  = [
-  {
-    id: 'e1',
-    tittle: 'school fee',
-    amount: 250,
-    date: new Date(2021, 5, 12)
-   },
+ 
    {
     id: 'e2',
     tittle: 'hostel fee',
